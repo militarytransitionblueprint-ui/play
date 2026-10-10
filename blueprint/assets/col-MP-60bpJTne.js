@@ -1,0 +1,1 @@
+var e=`MP`,t=[{f:`69999`,n:`Northern Mariana Islands`,fmr:[665,735,965,1342,1612],area:`Northern Mariana Islands`,cb:null,p:53883,rent:null,val:null,ptax:null,ownM:null,ownN:null,inc:null,cc:null}],n={},r={st:`MP`,counties:t,metros:n};export{t as counties,r as default,n as metros,e as st};

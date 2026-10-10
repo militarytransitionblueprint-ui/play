@@ -1,0 +1,1 @@
+var e=`GU`,t=[{f:`66010`,n:`Guam`,fmr:[1100,1211,1589,2226,2668],area:`Guam`,cb:null,p:159358,rent:null,val:null,ptax:null,ownM:null,ownN:null,inc:null,cc:null}],n={},r={st:`GU`,counties:t,metros:n};export{t as counties,r as default,n as metros,e as st};

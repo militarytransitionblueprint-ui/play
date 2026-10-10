@@ -1,0 +1,1 @@
+var e=`AS`,t=[{f:`60999`,n:`American Samoa`,fmr:[690,700,919,1278,1542],area:`American Samoa`,cb:null,p:55519,rent:null,val:null,ptax:null,ownM:null,ownN:null,inc:null,cc:null}],n={},r={st:`AS`,counties:t,metros:n};export{t as counties,r as default,n as metros,e as st};
